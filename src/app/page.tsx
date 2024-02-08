@@ -24,6 +24,9 @@ const DAYS = [
   "25",
   "26",
   "27",
+  "28",
+  "29",
+  "30",
 ];
 
 const YOUTUBE_PLAYLIST_ITEMS_API =
