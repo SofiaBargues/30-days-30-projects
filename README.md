@@ -1,26 +1,18 @@
-# 30 Website Redesigns
+# 30 Web Projects in 30 Days
 
-## Overview
+## 🚀 Project Overview
 
-This repository contains 30 website redesigns for various web pages. Starting from a basic template, each design was customized and improved upon. The project was completed over the course of one month, focusing on creating new websites for local businesses using React and Tailwind CSS.
+This repository contains my journey of completing 30 web projects in 30 days, following various tutorials. The projects are built using modern web technologies including React, Tailwind CSS, Next.js, and TypeScript.
 
-## Project Structure
-
-- Each redesign is stored in a separate branch
-- The main branch contains the base template
-
-## Collaboration
-
-One of the websites was developed in collaboration with a remote designer:
-
-- Used Figma for design handoff
-- Transformed the designer's vision into a functional website
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 - React
 - Tailwind CSS
-- Git (for version control)
-- Figma (for collaborative design work)
+- Next.js
+- TypeScript
 
-![alt text](public/chrome_EpKbmIcooR.jpg)
+## 🙏 Acknowledgements
+
+A big thank you to all the tutorial creators whose guidance made this project possible.
+
+![alt text](public/chrome_xpxJrrvxNd.png)
